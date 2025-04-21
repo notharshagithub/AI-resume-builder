@@ -4,7 +4,7 @@ Resume AI is a smart and modern web application that leverages AI to help users 
 
 ## 🚀 Live Demo
 
-🔗 [View Live App](https://your-live-deployment-link.vercel.app)
+🔗 [View Live App](https://ai-resume-builder-seven-delta.vercel.app/)
 
 ---
 
@@ -53,14 +53,12 @@ Resume AI is a smart and modern web application that leverages AI to help users 
 
 ---
 
-## 📥 Getting Started
+## 📝 How to Use
 
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/notharshagithub/resume-ai.git
-cd resume-ai
-npm install
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/notharshagithub/resume-ai.git
+   cd resume-ai
    
 
 Paste your rich text content here. You can paste directly from Word or other rich text sources.
@@ -68,17 +66,15 @@ Paste your rich text content here. You can paste directly from Word or other ric
 🔑 Add your Gemini API key  
 Create a `.env` file in the root of the project:
 
-env
+env change to be made for this key
 
-CopyEdit
+
 
 `VITE_GEMINI_API_KEY=your_gemini_api_key_here`
 
-Then run the development server:
 
-bash
 
-CopyEdit
+
 
 `npm run dev`
 
@@ -129,15 +125,6 @@ Generates:
 
 Response formatted and used across pages
 
-## 📦 Environment Variables
-
-Use a `.env` file to store secrets:
-
-env
-
-CopyEdit
-
-`VITE_GEMINI_API_KEY=your_api_key_here`
 
 Ensure you do not commit `.env` to GitHub.
 
@@ -160,26 +147,21 @@ Ensure you do not commit `.env` to GitHub.
 
 ## 📤 Deployment
 
-Deployed using Vercel (or Netlify):
+Deployed using Vercel 
 
-🔗 Live Demo Link
+🔗 [View Live App](https://ai-resume-builder-seven-delta.vercel.app/)
 
 📜 Commit History (20+ meaningful commits)
 
 Example:
 
-bash
-
-CopyEdit
 
 `🎉 Initial Vite + React setup ✅ Added Resume Form and Context logic ✨ Integrated Gemini API 📝 Implemented PDF export using @react-pdf/renderer 🎨 Styled resume preview with Tailwind 🚀 Deployment setup and README added`
 
 * * *
 
 ## 📘 Project Summary
-
-This is a college end-term React project designed to showcase modern web development practices using React, AI integration, and PDF generation. The app intelligently generates resume content based on job descriptions, ensuring a practical, real-world use case.
-
+Prescribe AI is an intelligent resume-building web application designed using React + Vite. It streamlines the process of creating tailored, job-ready resumes with the help of Google's Gemini AI. Users input basic details like name, education, work experience, and a job description, and the app uses AI to generate a professional summary, skills, and experience content that aligns with the job role.
 * * *
 
 ## 👨‍💻 Author
@@ -193,11 +175,3 @@ Built with 💙 as part of my college final project.
 ## 📃 License
 
 This project is open-source under the MIT License.
-
-css
-
-CopyEdit
-
-`This should now meet your request for the entire content in markdown format.`
-
-4o mini
