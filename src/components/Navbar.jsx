@@ -31,7 +31,7 @@ const Navbar = () => {
               onClick={closeMenu}
             >
               <span className="text-indigo-600 font-bold text-xl">
-                PrescribeAI
+                ResumeAI
               </span>
             </Link>
           </div>

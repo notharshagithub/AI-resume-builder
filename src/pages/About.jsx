@@ -13,7 +13,7 @@ const About = () => {
     <div className="max-w-4xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-gray-900 mb-2">
-          About PrescribeAI
+          About ResumeAI
         </h1>
         <p className="text-gray-600">
           Learn more about our project, technology, and mission.
@@ -25,7 +25,7 @@ const About = () => {
           Project Overview
         </h2>
         <p className="text-gray-700 mb-4">
-          PrescribeAI is an innovative resume builder that leverages artificial
+          ResumeAI is an innovative resume builder that leverages artificial
           intelligence to help job seekers create tailored, professional resumes
           that stand out to employers and applicant tracking systems.
         </p>

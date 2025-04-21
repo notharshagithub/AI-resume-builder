@@ -27,7 +27,7 @@ const LandingPage = () => {
                 <span className="block text-indigo-600">Powered by AI</span>
               </h1>
               <p className="text-lg text-gray-600 mb-8">
-                PrescribeAI analyzes your experience and job descriptions to
+                ResumeAI analyzes your experience and job descriptions to
                 generate tailored resumes that highlight your most relevant
                 skills and achievements.
               </p>
@@ -158,7 +158,7 @@ const LandingPage = () => {
           <div className="lg:grid lg:grid-cols-2 lg:gap-8 items-center">
             <div className="mb-12 lg:mb-0">
               <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                Why Choose PrescribeAI?
+                Why Choose ResumeAI?
               </h2>
 
               <ul className="space-y-4">
