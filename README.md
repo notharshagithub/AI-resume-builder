@@ -59,6 +59,9 @@ Resume AI is a smart and modern web application that leverages AI to help users 
    ```bash
    git clone https://github.com/notharshagithub/resume-ai.git
    cd resume-ai
+
+
+
    
 
 Paste your rich text content here. You can paste directly from Word or other rich text sources.
