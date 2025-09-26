@@ -12,7 +12,7 @@ Resume AI is a smart and modern web application that leverages AI to help users 
 
 | Landing Page | Resume Builder | AI Generation | PDF Output |
 |--------------|----------------|----------------|------------|
-| ![Landing](./screenshots/landing.png) | ![Builder](./screenshots/builder.png) | ![AI](./screenshots/ai-gen.png) | ![PDF](./screenshots/pdf.png) |
+| ![Landing](./public/home.png) | ![Builder](./public/home1.png) | ![AI](./public/home2.png) | ![PDF](./public/home4.png) |
 
 ---
 
